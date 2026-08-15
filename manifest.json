@@ -1,6 +1,6 @@
 {
-  "name": "屍蹤Q：末日小隊",
-  "short_name": "屍蹤Q",
+  "name": "末日小隊",
+  "short_name": "末日小隊",
   "description": "殭屍生存動作遊戲",
   "start_url": "./Doomsday-Squad-Game-release.html",
   "scope": "./",
